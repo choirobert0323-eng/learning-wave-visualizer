@@ -1,0 +1,7 @@
+problem_id,category,section,status
+1,Practice,Unit 1,true
+2,Intermediate,Unit 1,false
+3,Practice,Unit 1,true
+4,Outsource,Unit 2,false
+5,Exam,Unit 2,true
+6,Practice,Unit 2,true
